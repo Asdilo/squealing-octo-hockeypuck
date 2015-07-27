@@ -1,4 +1,6 @@
 # squealing-octo-hockeypuck
+![](./squealing-octo-hockeypuck.png)
+
 We don't even know what we're doing.
 
 ## Brain Dump Initiative (thanks Jeff for pointing out my oversight) (thanks for the spellcheck Rob)
